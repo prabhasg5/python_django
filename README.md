@@ -1,0 +1,1 @@
+"hello this directory contains my all django projects"
